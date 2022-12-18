@@ -2,5 +2,4 @@ voila
 fastai
 pillow<7
 packaging
-ipywidgets
-fastbook
+ipywidgets==8.0.2
