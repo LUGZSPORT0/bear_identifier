@@ -1,6 +1,6 @@
 jupyterlab
 voila
-fastai>2.5
+fastai
 pillow<7
 packaging
 ipywidgets
