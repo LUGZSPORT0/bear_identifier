@@ -4,3 +4,4 @@ pillow
 packaging
 ipywidgets
 nodejs
+jupyterlab_widgets
