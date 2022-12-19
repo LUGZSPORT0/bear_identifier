@@ -3,3 +3,4 @@ fastai
 pillow
 packaging
 ipywidgets
+nodejs
